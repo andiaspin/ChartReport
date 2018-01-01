@@ -1,0 +1,11 @@
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\bin\Debug\Chart.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.Form1.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.Resources.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\obj\x86\Debug\Chart.vbprojResolveAssemblyReference.cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Chart\Chart\bin\Debug\Chart.exe.config
